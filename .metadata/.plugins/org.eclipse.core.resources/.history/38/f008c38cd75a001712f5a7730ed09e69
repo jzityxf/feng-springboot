@@ -1,0 +1,5 @@
+package com.feng.securitshiro.controller;
+
+public class HomeController {
+
+}

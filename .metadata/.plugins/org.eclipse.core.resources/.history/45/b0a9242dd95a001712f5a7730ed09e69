@@ -1,0 +1,5 @@
+package com.feng.securitshiro.service;
+
+public class UserInfoService {
+
+}

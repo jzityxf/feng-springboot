@@ -1,0 +1,5 @@
+package com.feng.securitshiro.config.shiro;
+
+public class MyShiroRealm {
+
+}
