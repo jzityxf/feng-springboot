@@ -1,9 +1,0 @@
-package com.feng.securitshiro.service;
-
-import com.example.domain.UserInfo;  
-
-public interface UserInfoService {  
-  
-    public UserInfo findByUsername(String username);  
-  
-}  
